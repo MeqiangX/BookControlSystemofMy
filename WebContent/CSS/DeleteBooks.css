@@ -1,0 +1,56 @@
+@charset "UTF-8";
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: coral;
+}
+
+.d1{
+
+    height:77px;
+
+}
+
+.d1 table{
+    margin:0 auto;
+    width: 1150px;
+    line-height: 77px;
+    font-size: 27px;
+}
+
+.d1 th{
+    border-bottom-style: ridge;
+    border-width: 2px;
+ }
+
+.d2{
+
+    height: 160px;
+}
+
+.d2 form{
+   padding:120px 340px 10px ;
+}
+
+.text{
+    width: 200px;
+}
+.clear,.search{
+    width:50px;
+}
+.text,.clear,.search{
+    height:23px;
+}
+
+.d3{
+    height: 40px;
+    margin: 20px;
+}
+
+.d3 a{
+    padding-left:500px;
+    padding-bottom:10px
+}

@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.d1 {
+  backgroundcolor:red;
+}
+
+.d1 table{
+    margin:0 auto;
+    width:540px;
+    height: 180px;
+    text-align: center;
+}
+.tr1{
+    background-color: greenyellow;
+    font-size:20px;
+}
+
+.tr2{
+    background-color: lightgray;
+    font-size:10px;
+}
+
+.d2{
+    position: relative;
+    height: 20px;
+    backgroundcolor:pink;
+
+}
+
+.d2 a{
+    position: absolute;
+    left:610px;
+}
